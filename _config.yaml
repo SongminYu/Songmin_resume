@@ -1,0 +1,78 @@
+# Profile section
+profile:
+  first_name: Songmin
+  last_name: Yu
+  picture: static/img/Songmin.jpg  # Local picture
+  contact:
+    address_one: Breslauer Straße 48 | 76139 Karlsruhe, Germany
+    address_two:
+    phone:
+  email: yu.ceepcas@gmail.com
+  description: >
+    Hi! I am Songmin Yu, Doctor of Management Science and Engineering (CAS, 2018).
+    Currently I am working as a Senior Researcher in the Fraunhofer Institute for Systems and Innovation Research, Competence Center of Energy Policy and Energy Markets.
+    My research interests include climate change policies, agent-based modelling, and energy system modelling.
+
+
+# Social section
+social:
+  website: https://www.songmin.me
+  github: https://github.com/SongminYu
+  researchgate: https://www.researchgate.net/profile/Songmin_Yu2
+  linkedin: https://www.linkedin.com/in/songmin-yu-67987085/
+
+
+# Experience section
+experience:
+  item0:
+    position: Senior Researcher
+    company: Fraunhofer Institute for Systems and Innovation Research
+    from: May 2020
+    to: Present
+
+  item1:
+    position: Postdoc Researcher
+    company: Fraunhofer Institute for Systems and Innovation Research
+    from: November 2018
+    to: May 2020
+
+
+# Education section
+education:
+  item1:
+    institution: Chinese Academy of Sciences
+    program: Doctor of Management Science and Engineering
+    from: September 2015
+    to: June 2018
+  item2:
+    institution: China University of Petroleum (Beijing)
+    program: Master of Management Science and Engineering
+    from: September 2013
+    to: June 2015
+  item3:
+    institution: Beihang University (BUAA)
+    program: Bachelor of Instrument Science and Technology
+    from: September 2009
+    to: June 2013
+
+
+# Projects section
+projects:
+  item1:
+    title: AMETS
+    description: An agent-based model for the emission trading scheme.
+    link: https://www.sciencedirect.com/science/article/abs/pii/S0377221720303131
+    github: https://github.com/SongminYu/AMETS_MultipleSector
+    img: AMETS.jpg
+    tags: [Python, MySQL]
+
+
+# Publications section
+pubs:
+  - "[1] Yu S, Fan Y, Zhu L, et al. Modeling the Emission Trading Scheme from an Agent-based Perspective: System Dynamics Emerging from Firms’ Coordination among Abatement Options[J]. European Journal of Operational Research, 2020."
+  - "[2] Yu S, Zhu L. Impact of firms’ observation network on the carbon market[J]. Energies, 2017, 10(8): 1164."
+  - "[3] Xu J H, Fan Y, Yu S M. Energy conservation and CO2 emission reduction in China's 11th Five-Year Plan: A performance evaluation[J]. Energy Economics, 2014, 46: 348-359."
+
+# Working papers section
+wps:
+  - "[1] Yu S. Balancing the Flexibility and Reliability of Agent-based Models. Working paper, 2020."
